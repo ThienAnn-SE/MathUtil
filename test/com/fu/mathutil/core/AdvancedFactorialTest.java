@@ -33,7 +33,8 @@ public class AdvancedFactorialTest {
             {1, 1},
             {3, 6},
             {4, 24},
-            {5, 120}
+            {5, 120},
+            {6,720}
         };
     }
     @Parameter(value = 0) //map voi cot 0 cua tap data
